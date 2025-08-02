@@ -1,0 +1,7 @@
+{
+    "BLEU": 0.3133872126263572,
+    "BERTScore Recall": 0.9173651169538498,
+    "BERTScore Precision": 0.8539166713356972,
+    "BERTScore F1": 0.884108512699604,
+    "exact_match": 0.003
+}
